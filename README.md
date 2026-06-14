@@ -1,5 +1,5 @@
 ## Şahin Parlak
 
-Physician-developer.
+Physician-developer. I build medical software for under-resourced settings.
 
-🌐 [sahinparlak.com](https://sahinparlak.com)
+→ [sahinparlak.com](https://sahinparlak.com)
