@@ -6,11 +6,10 @@
 
 <p align="center">Physician-developer. I build medical software for under-resourced settings.</p>
 
-```
-$ status
-> pediatric surgery resident — building tools between shifts
-> now: SALUS desktop app · Bay Medsın episode 0002
-> stack: Python · TypeScript · SQL
+```yaml
+status: pediatric surgery resident — building tools between shifts
+now: SALUS desktop app · Bay Medsın episode 0002
+stack: Python · TypeScript · SQL
 ```
 
 <p align="center">
