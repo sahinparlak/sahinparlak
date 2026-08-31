@@ -6,6 +6,13 @@
 
 <p align="center">Physician-developer. I build medical software for under-resourced settings.</p>
 
+```
+$ status
+> pediatric surgery resident — building tools between shifts
+> now: SALUS desktop app · Bay Medsın episode 0002
+> stack: Python · TypeScript · SQL
+```
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/ekg-dark.png">
@@ -14,6 +21,7 @@
 </p>
 
 - [**SALUS Zero**](https://github.com/sahinparlak/salus-zero) — clinical training simulator and bedside decision companion for medicine where nothing is available.
+- [**TPN Calculator**](https://github.com/sahinparlak/tpn-calculator) — configurable parenteral nutrition calculator for neonatal and pediatric patients.
 - [**Bay Medsın**](https://www.youtube.com/@baymedsin) — I put software and AI to the test and report the verdict. On YouTube, in Turkish.
 
 <p align="center">
